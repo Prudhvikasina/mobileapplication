@@ -6,9 +6,12 @@ import { IonicModule, IonicRouteStrategy } from '@ionic/angular';
 
 import { AppComponent } from './app.component';
 import { AppRoutingModule } from './app-routing.module';
+import { RegComponent } from './reg/reg.component';
+import { LoginComponent } from './login/login.component';
+import { WeluserComponent } from './weluser/weluser.component';
 
 @NgModule({
-  declarations: [AppComponent],
+  declarations: [AppComponent,RegComponent,LoginComponent,WeluserComponent],
   entryComponents: [],
   imports: [BrowserModule, IonicModule.forRoot(), AppRoutingModule],
   providers: [{ provide: RouteReuseStrategy, useClass: IonicRouteStrategy }],
