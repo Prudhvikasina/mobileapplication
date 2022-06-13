@@ -14,7 +14,7 @@
     text-align: center;
     color: rgb(255, 255, 255);
     font: x-large;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   }
   
   .user{
@@ -23,13 +23,14 @@
   }
   
   .color{
-    background-color:#3dc2ff;
+    
     border-radius: 5%;
   }
   
   .good{
     text-align: right;
-    color: #000000;
+    color: #a30000;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     
   }
   .clock{
@@ -38,12 +39,11 @@
   }
   .Task{
     text-align: left;
-    color: #000000;
+    color: #a30000;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   }
   .Task1{
-    font: bold;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   }
   
   .plus{
@@ -51,27 +51,34 @@
   }
   .good1{
     text-align: left;
-    color: rgb(0, 0, 0);
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #ffffff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   }
   .good2{
     text-align: left;
-    color: rgb(0, 0, 0);
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #ffffff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   }
   
   .good3{
     text-align: left;
-    color: rgb(0, 0, 0);
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #ffffff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   }
   .good4{
     text-align: left;
-    color: rgb(0, 0, 0);
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #ffffff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   }
   .good5{
     text-align: left;
-    color: rgb(0, 0, 0);
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #ffffff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+
+  .profile{
+      border-radius: 20%;
+  }
+  .card{
+    background-color: #50E0E0;
   }
